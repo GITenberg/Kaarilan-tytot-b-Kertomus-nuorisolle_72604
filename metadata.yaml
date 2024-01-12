@@ -1,0 +1,32 @@
+_repo: Kaarilan-tytot-b-Kertomus-nuorisolle_72604
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Virvatuli, Annikki
+    aliases:
+    - Virvatuli-Kaik, Rauha Annikki
+    - Palmlöf, Rauha Anna
+    - Palmlof, Rauha Anna
+    birthdate: 1884
+    deathdate: 1940
+    gutenberg_agent_id: '56703'
+    url: http://www.gutenberg.org/2009/agents/56703
+    wikipedia: https://fi.wikipedia.org/wiki/Annikki_Virvatuli
+description: ''
+gutenberg_issued: '2024-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72604'
+language: fi
+pgterms:marc905: 20211116083428hirn
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kaarilan tytöt : $b Kertomus nuorisolle'
+url: http://www.gutenberg.org/ebooks/72604
